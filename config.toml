@@ -14,8 +14,8 @@ main = []
 description = "Data Discovery with R and Tableau"
 facebook = ""
 github = "https://github.com/jonathanjanssens"
-logo = "/images/ghost-transparent.png"
-mainSections = ["post"]
+logo = "/images/background.png"
+mainSections = []
 twitter = "https://twitter.com"
 [privacy.instagram]
 disabled = false
