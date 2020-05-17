@@ -8,11 +8,8 @@ languageCode = "en"
 paginate = 1
 theme = "casper3"
 title = "Hugo Themes"
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 1
+[menu]
+main = []
 [params]
 description = "Data Discovery with R and Tableau"
 facebook = ""
