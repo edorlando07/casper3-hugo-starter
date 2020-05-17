@@ -9,9 +9,9 @@ paginate = 3
 theme = "casper3"
 title = "Hugo Themes"
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
+identifier = "blog"
+name = "Blog"
+url = "https://ed-orlando07.netlify.app/"
 weight = 10
 [[menu.main]]
 identifier = "image-credit"
