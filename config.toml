@@ -16,7 +16,7 @@ facebook = ""
 github = "https://github.com/jonathanjanssens"
 logo = "/images/background.png"
 mainSections = []
-twitter = "https://twitter.com"
+twitter = ""
 [privacy.instagram]
 disabled = false
 simple = true
