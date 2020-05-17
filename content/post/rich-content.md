@@ -1,10 +1,10 @@
 +++
-author = "Hugo Authors"
+author = "Ed Orlando"
 date = 2019-03-10T00:00:00Z
-description = "A brief description of Hugo Shortcodes"
-feature_image = "/images/kelly-sikkema-8RWZ93hLktI-unsplash.jpg"
+description = "A brief description Ed Orlando"
+feature_image = "/images/jason-briscoe-amLfrL8LGls-unsplash.jpg"
 tags = ["shortcodes", "privacy"]
-title = "Rich Content"
+title = "About"
 
 +++
 Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
